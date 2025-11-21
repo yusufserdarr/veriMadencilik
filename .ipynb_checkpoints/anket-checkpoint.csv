@@ -1,0 +1,258 @@
+Zaman damgası,Yaşınız?,Cinsiyetiniz?,Günlük iş/okul yoğunluğu?,Günde ortalama kaç fincan kahve içiyorsunuz?  ,Kahve içme zamanı (Birden fazla seçilebilir)  ,Kahve içtiğinizde kendinizi nasıl hissediyorsunuz?  ,Günlük stres düzeyinizi nasıl değerlendirirsiniz?  ,Ortalama günlük uyku süreniz (saat)  ,Günün genel ruh halinizi nasıl tanımlarsınız?  ,Stresli hissettiğinizde daha fazla kahve içme eğiliminde misiniz?  ,Kahve içme nedeni? 
+08.11.2025 16:30:06,18-24,Erkek,Yüksek,1-2,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,8-9,Enerjik,Hayır,Tadı vs.
+08.11.2025 16:31:43,18-24,Erkek,Çok Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Emin değilim,Tadı vs.
+08.11.2025 21:49:48,35-44,Erkek,Yüksek,1-2,Sabah,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Alışkanlık
+08.11.2025 21:51:19,18-24,Erkek,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Uyanmak
+08.11.2025 21:51:25,18-24,Erkek,Orta,0,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Emin değilim,Tadı vs.
+08.11.2025 21:53:04,18-24,Erkek,Orta,0,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+08.11.2025 21:53:40,25-34,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Evet,Alışkanlık
+08.11.2025 21:54:20,18-24,Erkek,Yüksek,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Hayır,Alışkanlık
+08.11.2025 21:55:16,18-24,Erkek,Çok Yüksek,5+,"Sabah, Öğle, Akşam, Gün boyu","Hiç Rahatlamış Hissetmem, Az Rahatlamış Hissederim, Orta Düzeyde Rahatlamış Hissederim, Çok Rahatlamış Hissederim",Düşük/Orta Stres,4-5,Sakin,Hayır,Alışkanlık
+08.11.2025 21:55:56,35-44,Kadın,Orta,1-2,"Sabah, Öğle",Hiç Rahatlamış Hissetmem,Çok Yüksek Stres,6-7,Stresli,Hayır,Alışkanlık
+08.11.2025 21:55:56,25-34,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,4-5,Stresli,Hayır,Alışkanlık
+08.11.2025 21:57:04,18-24,Erkek,Orta,5+,Akşam,Çok Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Stresli,Evet,Alışkanlık
+08.11.2025 21:57:55,18-24,Erkek,Düşük,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Alışkanlık
+08.11.2025 21:58:28,18-24,Erkek,Orta,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Tadı vs.
+08.11.2025 21:58:43,44+,Erkek,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Stresli,Hayır,Tadı vs.
+08.11.2025 21:59:29,35-44,Kadın,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Alışkanlık
+08.11.2025 22:02:28,25-34,Erkek,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Emin değilim,Uyanmak
+08.11.2025 22:03:18,18-24,Erkek,Orta,0,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Sosyallik
+08.11.2025 22:03:55,25-34,Erkek,Çok Yüksek,1-2,Akşam,"Az Rahatlamış Hissederim, Orta Düzeyde Rahatlamış Hissederim",Yüksek Stres,4-5,Yorgun,Emin değilim,Alışkanlık
+08.11.2025 22:04:04,25-34,Erkek,Çok Yüksek,1-2,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+08.11.2025 22:05:29,18-24,Erkek,Yüksek,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Alışkanlık
+08.11.2025 22:05:32,18-24,Erkek,Çok Yüksek,1-2,Akşam,Hiç Rahatlamış Hissetmem,Çok Düşük Stres,6-7,Enerjik,Evet,Uyanmak
+08.11.2025 22:06:01,18-24,Erkek,Çok Yüksek,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Enerjik,Hayır,Tadı vs.
+08.11.2025 22:07:53,25-34,Erkek,Yüksek,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Evet,Alışkanlık
+08.11.2025 22:08:13,18-24,Erkek,Düşük,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+08.11.2025 22:10:00,25-34,Erkek,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Emin değilim,Tadı vs.
+08.11.2025 22:12:24,18-24,Erkek,Yüksek,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Emin değilim,Tadı vs.
+08.11.2025 22:12:46,18-24,Erkek,Yüksek,0,Sabah,Hiç Rahatlamış Hissetmem,Çok Düşük Stres,8-9,Sakin,Emin değilim,Sosyallik
+08.11.2025 22:16:00,35-44,Kadın,Orta,3-4,Gün boyu,Çok Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Evet,Tadı vs.
+08.11.2025 22:16:43,18-24,Erkek,Yüksek,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Alışkanlık
+08.11.2025 22:17:00,18-24,Erkek,Orta,1-2,Sabah,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Uyanmak
+08.11.2025 22:17:17,18-24,Erkek,Düşük,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Yorgun,Hayır,Uyanmak
+08.11.2025 22:17:30,18-24,Erkek,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Emin değilim,Tadı vs.
+08.11.2025 22:18:57,18-24,Erkek,Çok Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Yorgun,Hayır,Tadı vs.
+08.11.2025 22:20:27,18-24,Erkek,Düşük,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Emin değilim,Sosyallik
+08.11.2025 22:20:37,18-24,Erkek,Yüksek,3-4,"Öğle, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,4-5,Sakin,Evet,Alışkanlık
+08.11.2025 22:28:32,18-24,Erkek,Yüksek,0,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Uyanmak
+08.11.2025 22:28:39,18-24,Erkek,Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Tadı vs.
+08.11.2025 22:29:24,18-24,Kadın,Düşük,1-2,Sabah,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Hayır,Tadı vs.
+08.11.2025 22:31:57,18-24,Kadın,Orta,1-2,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Enerjik,Hayır,Tadı vs.
+08.11.2025 22:32:31,18-24,Erkek,Yüksek,3-4,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Stresle başa çıkma
+08.11.2025 22:33:34,44+,Kadın,Düşük,1-2,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,8-9,Stresli,Hayır,Tadı vs.
+08.11.2025 22:34:01,18-24,Kadın,Yüksek,3-4,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Uyanmak
+08.11.2025 22:34:52,18-24,Erkek,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Stresli,Evet,Stresle başa çıkma
+08.11.2025 22:35:17,44+,Erkek,Çok Yüksek,5+,Gün boyu,Çok Rahatlamış Hissederim,Çok Düşük Stres,10+,Kararsız,Emin değilim,Sosyallik
+08.11.2025 22:36:32,18-24,Erkek,Yüksek,5+,"Sabah, Öğle, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,8-9,Sakin,Hayır,Tadı vs.
+08.11.2025 22:37:12,18-24,Erkek,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Emin değilim,Tadı vs.
+08.11.2025 22:37:12,18-24,Erkek,Düşük,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Emin değilim,Alışkanlık
+08.11.2025 22:38:20,18-24,Erkek,Orta,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Sosyallik
+08.11.2025 22:38:40,35-44,Erkek,Yüksek,1-2,Gün boyu,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Tadı vs.
+08.11.2025 22:38:46,18-24,Erkek,Yüksek,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,"4-5, 6-7",Sakin,Evet,Stresle başa çıkma
+08.11.2025 22:40:01,18-24,Kadın,Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,"4-5, 6-7",Kararsız,Evet,Uyanmak
+08.11.2025 22:40:41,18-24,Erkek,Düşük,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Uyanmak
+08.11.2025 22:40:45,18-24,Erkek,Çok Yüksek,1-2,"Öğle, Akşam",Çok Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Stresli,Emin değilim,Alışkanlık
+08.11.2025 22:42:03,25-34,Erkek,Orta,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Kararsız,Hayır,Alışkanlık
+08.11.2025 22:42:10,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,"6-7, 8-9",Sakin,Hayır,Sosyallik
+08.11.2025 22:42:18,18-24,Erkek,Düşük,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Tadı vs.
+08.11.2025 22:43:32,18-24,Erkek,Yüksek,0,Akşam,Az Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+08.11.2025 22:45:07,35-44,Kadın,Orta,1-2,Öğle,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Stresli,Hayır,Sosyallik
+08.11.2025 22:45:27,18-24,Erkek,Orta,0,Sabah,Orta Düzeyde Rahatlamış Hissederim,Çok Düşük Stres,6-7,Kararsız,Hayır,Uyanmak
+08.11.2025 22:46:00,35-44,Kadın,Çok Yüksek,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+08.11.2025 22:46:19,25-34,Kadın,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Çok Düşük Stres,4-5,Enerjik,Hayır,Tadı vs.
+08.11.2025 22:46:49,44+,Erkek,Yüksek,1-2,Sabah,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Stresle başa çıkma
+08.11.2025 22:46:51,18-24,Kadın,Yüksek,0,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,4-5,Yorgun,Hayır,Tadı vs.
+08.11.2025 22:48:14,35-44,Kadın,Yüksek,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Emin değilim,Tadı vs.
+08.11.2025 22:48:56,18-24,Kadın,Orta,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Alışkanlık
+08.11.2025 22:51:27,18-24,Erkek,Yüksek,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Evet,Alışkanlık
+08.11.2025 22:53:24,18-24,Erkek,Orta,1-2,Sabah,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Sakin,Evet,Alışkanlık
+08.11.2025 22:53:27,25-34,Erkek,Düşük,3-4,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Hayır,Sosyallik
+08.11.2025 22:54:42,18-24,Erkek,Orta,3-4,"Sabah, Öğle, Akşam, Gün boyu","Hiç Rahatlamış Hissetmem, Az Rahatlamış Hissederim",Düşük/Orta Stres,8-9,Kararsız,Hayır,Alışkanlık
+08.11.2025 22:54:48,18-24,Erkek,Düşük,1-2,Akşam,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Hayır,Tadı vs.
+08.11.2025 22:55:18,18-24,Kadın,Orta,0,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+08.11.2025 22:55:30,18-24,Erkek,Çok Yüksek,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Stresli,Hayır,Uyanmak
+08.11.2025 22:56:23,25-34,Kadın,Düşük,0,Öğle,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,8-9,Sakin,Hayır,Sosyallik
+08.11.2025 22:56:30,44+,Erkek,Çok Yüksek,3-4,"Sabah, Öğle, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Emin değilim,Tadı vs.
+08.11.2025 22:58:18,18-24,Erkek,Orta,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Stresli,Emin değilim,Sosyallik
+08.11.2025 23:00:07,18-24,Erkek,Yüksek,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Evet,Tadı vs.
+08.11.2025 23:02:51,18-24,Kadın,Orta,0,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Hayır,Uyanmak
+08.11.2025 23:04:46,18-24,Erkek,Orta,1-2,Gün boyu,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Emin değilim,Stresle başa çıkma
+08.11.2025 23:06:01,18-24,Erkek,Yüksek,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+08.11.2025 23:06:05,25-34,Kadın,Yüksek,1-2,"Öğle, Akşam",Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Tadı vs.
+08.11.2025 23:07:27,35-44,Kadın,Yüksek,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,"6-7, 8-9",Stresli,Hayır,Sosyallik
+08.11.2025 23:07:47,35-44,Kadın,Çok Yüksek,1-2,"Sabah, Öğle",Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Stresli,Emin değilim,Alışkanlık
+08.11.2025 23:07:59,18-24,Kadın,Orta,1-2,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Kararsız,Hayır,Tadı vs.
+08.11.2025 23:08:22,18-24,Kadın,Orta,1-2,Sabah,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Emin değilim,Uyanmak
+08.11.2025 23:09:15,35-44,Kadın,Çok Yüksek,1-2,"Sabah, Öğle",Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Stresli,Emin değilim,Alışkanlık
+08.11.2025 23:09:16,18-24,Erkek,Çok Yüksek,1-2,Sabah,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Uyanmak
+08.11.2025 23:11:14,18-24,Kadın,Orta,1-2,"Sabah, Öğle, Akşam",Çok Rahatlamış Hissederim,Düşük/Orta Stres,"6-7, 8-9",Enerjik,Hayır,Uyanmak
+08.11.2025 23:11:41,18-24,Erkek,Yüksek,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Hayır,Alışkanlık
+08.11.2025 23:13:12,18-24,Kadın,Çok Yüksek,0,Gün boyu,Hiç Rahatlamış Hissetmem,Çok Yüksek Stres,10+,Stresli,Hayır,Sosyallik
+08.11.2025 23:14:35,18-24,Erkek,Orta,1-2,Gün boyu,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Tadı vs.
+08.11.2025 23:16:29,18-24,Kadın,Yüksek,0,Akşam,Hiç Rahatlamış Hissetmem,Çok Yüksek Stres,6-7,Stresli,Hayır,Stresle başa çıkma
+08.11.2025 23:17:26,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Çok Düşük Stres,6-7,Enerjik,Hayır,Tadı vs.
+08.11.2025 23:18:19,18-24,Erkek,Yüksek,3-4,"Sabah, Öğle, Akşam, Gün boyu",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,4-5,Stresli,Evet,Alışkanlık
+08.11.2025 23:20:17,18-24,Kadın,Orta,1-2,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Uyanmak
+08.11.2025 23:25:52,18-24,Kadın,Yüksek,1-2,Öğle,Çok Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Evet,Uyanmak
+08.11.2025 23:26:01,18-24,Kadın,Yüksek,1-2,"Sabah, Öğle, Gün boyu",Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Sakin,Hayır,Sosyallik
+08.11.2025 23:31:17,18-24,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam, Gün boyu",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Enerjik,Emin değilim,Tadı vs.
+08.11.2025 23:32:26,18-24,Erkek,Çok Yüksek,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Stresli,Emin değilim,Alışkanlık
+08.11.2025 23:34:56,18-24,Erkek,Orta,1-2,Sabah,Hiç Rahatlamış Hissetmem,Çok Yüksek Stres,8-9,Stresli,Hayır,Uyanmak
+08.11.2025 23:35:17,18-24,Kadın,Yüksek,1-2,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Hayır,Uyanmak
+08.11.2025 23:35:55,44+,Kadın,Düşük,1-2,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Tadı vs.
+08.11.2025 23:39:17,44+,Erkek,Orta,1-2,Akşam,Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Enerjik,Hayır,Tadı vs.
+08.11.2025 23:40:34,18-24,Erkek,Orta,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Kararsız,Hayır,Uyanmak
+08.11.2025 23:52:22,25-34,Kadın,Çok Yüksek,1-2,Öğle,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Hayır,Sosyallik
+08.11.2025 23:57:02,18-24,Erkek,Orta,1-2,Gün boyu,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+08.11.2025 23:57:19,35-44,Kadın,Orta,1-2,Öğle,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Evet,Alışkanlık
+09.11.2025 00:00:00,18-24,Erkek,Yüksek,1-2,"Sabah, Öğle",Hiç Rahatlamış Hissetmem,Yüksek Stres,8-9,Enerjik,Hayır,Sosyallik
+09.11.2025 00:00:40,18-24,Kadın,Yüksek,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Sakin,Hayır,Uyanmak
+09.11.2025 00:03:21,18-24,Kadın,Yüksek,1-2,Öğle,Çok Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Evet,Alışkanlık
+09.11.2025 00:03:56,18-24,Erkek,Yüksek,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Tadı vs.
+09.11.2025 00:06:45,18-24,Kadın,Orta,1-2,Gün boyu,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Stresli,Evet,Uyanmak
+09.11.2025 00:13:43,18-24,Kadın,Yüksek,0,Akşam,Hiç Rahatlamış Hissetmem,Çok Düşük Stres,6-7,Kararsız,Hayır,Tadı vs.
+09.11.2025 00:26:24,25-34,Erkek,Çok Yüksek,3-4,Akşam,"Hiç Rahatlamış Hissetmem, Orta Düzeyde Rahatlamış Hissederim, Çok Rahatlamış Hissederim",Çok Düşük Stres,4-5,Enerjik,Emin değilim,Stresle başa çıkma
+09.11.2025 00:37:07,18-24,Erkek,Orta,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Hayır,Alışkanlık
+09.11.2025 00:37:07,35-44,Erkek,Yüksek,1-2,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Emin değilim,Alışkanlık
+09.11.2025 00:57:14,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam","Az Rahatlamış Hissederim, Orta Düzeyde Rahatlamış Hissederim",Yüksek Stres,8-9,Stresli,Hayır,Uyanmak
+09.11.2025 01:07:13,18-24,Erkek,Yüksek,0,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Sosyallik
+09.11.2025 01:12:08,18-24,Kadın,Yüksek,1-2,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Stresli,Emin değilim,Sosyallik
+09.11.2025 01:14:31,18-24,Kadın,Düşük,0,Akşam,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Hayır,Sosyallik
+09.11.2025 01:50:12,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Emin değilim,Tadı vs.
+09.11.2025 02:52:09,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Uyanmak
+09.11.2025 03:15:04,44+,Kadın,Düşük,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Çok Düşük Stres,8-9,Kararsız,Hayır,Uyanmak
+09.11.2025 07:32:51,18-24,Kadın,Orta,1-2,Akşam,Hiç Rahatlamış Hissetmem,Çok Düşük Stres,6-7,Yorgun,Hayır,Tadı vs.
+09.11.2025 07:50:28,18-24,Kadın,Yüksek,3-4,Gün boyu,Çok Rahatlamış Hissederim,Düşük/Orta Stres,4-5,Yorgun,Evet,Alışkanlık
+09.11.2025 10:12:30,44+,Erkek,Çok Yüksek,3-4,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Evet,Alışkanlık
+09.11.2025 10:25:16,18-24,Erkek,Orta,1-2,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,4-5,Enerjik,Hayır,Tadı vs.
+09.11.2025 11:02:10,25-34,Erkek,Düşük,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Uyanmak
+09.11.2025 11:06:39,25-34,Erkek,Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Uyanmak
+09.11.2025 11:09:12,35-44,Erkek,Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Hayır,Uyanmak
+09.11.2025 11:23:31,25-34,Erkek,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Sakin,Hayır,Alışkanlık
+09.11.2025 11:28:25,25-34,Erkek,Yüksek,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Kararsız,Hayır,Uyanmak
+09.11.2025 11:28:34,18-24,Kadın,Yüksek,0,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,"4-5, 6-7",Yorgun,Hayır,Tadı vs.
+09.11.2025 11:43:04,18-24,Erkek,Yüksek,0,"Öğle, Akşam",Hiç Rahatlamış Hissetmem,Çok Düşük Stres,8-9,Enerjik,Evet,Uyanmak
+09.11.2025 12:55:29,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Emin değilim,Alışkanlık
+09.11.2025 13:01:23,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Hayır,Tadı vs.
+09.11.2025 13:03:09,18-24,Erkek,Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Yorgun,Hayır,Tadı vs.
+09.11.2025 13:11:18,18-24,Erkek,Orta,0,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,4-5,Sakin,Hayır,Tadı vs.
+09.11.2025 13:12:28,18-24,Erkek,Orta,0,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Sosyallik
+09.11.2025 13:16:19,18-24,Kadın,Çok Yüksek,1-2,"Sabah, Öğle, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Alışkanlık
+09.11.2025 13:19:43,44+,Kadın,Düşük,5+,Gün boyu,Çok Rahatlamış Hissederim,Çok Düşük Stres,10+,Enerjik,Evet,Stresle başa çıkma
+09.11.2025 13:21:07,25-34,Erkek,Orta,3-4,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Yorgun,Hayır,Tadı vs.
+09.11.2025 13:23:04,18-24,Kadın,Çok Yüksek,1-2,"Öğle, Akşam",Hiç Rahatlamış Hissetmem,Çok Düşük Stres,6-7,Yorgun,Hayır,Sosyallik
+09.11.2025 13:23:57,18-24,Erkek,Yüksek,3-4,"Sabah, Öğle, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+09.11.2025 13:26:44,18-24,Erkek,Yüksek,0,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Tadı vs.
+09.11.2025 13:30:40,18-24,Erkek,Yüksek,0,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Sosyallik
+09.11.2025 13:31:28,25-34,Kadın,Düşük,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Sosyallik
+09.11.2025 13:31:36,18-24,Erkek,Orta,1-2,Akşam,Az Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Stresli,Evet,Uyanmak
+09.11.2025 13:31:55,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Stresli,Hayır,Stresle başa çıkma
+09.11.2025 13:34:27,18-24,Kadın,Düşük,1-2,"Öğle, Akşam",Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,8-9,Kararsız,Hayır,Tadı vs.
+09.11.2025 13:35:04,25-34,Kadın,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Alışkanlık
+09.11.2025 13:35:15,18-24,Erkek,Orta,0,Sabah,Hiç Rahatlamış Hissetmem,Çok Yüksek Stres,4-5,Stresli,Hayır,Tadı vs.
+09.11.2025 13:37:23,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Sosyallik
+09.11.2025 13:39:17,18-24,Kadın,Düşük,3-4,"Öğle, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Emin değilim,Alışkanlık
+09.11.2025 13:42:32,25-34,Kadın,Orta,1-2,Gün boyu,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Stresli,Evet,Stresle başa çıkma
+09.11.2025 13:43:30,35-44,Kadın,Yüksek,1-2,Öğle,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,4-5,Enerjik,Hayır,Tadı vs.
+09.11.2025 13:44:31,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam",Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Evet,Tadı vs.
+09.11.2025 13:49:48,18-24,Erkek,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Emin değilim,Alışkanlık
+09.11.2025 13:50:30,25-34,Erkek,Yüksek,0,Öğle,"Hiç Rahatlamış Hissetmem, Az Rahatlamış Hissederim",Düşük/Orta Stres,4-5,Yorgun,Hayır,Uyanmak
+09.11.2025 13:51:52,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Sakin,Hayır,Tadı vs.
+09.11.2025 13:56:25,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Kararsız,Hayır,Tadı vs.
+09.11.2025 14:04:22,18-24,Kadın,Orta,1-2,Gün boyu,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Emin değilim,Alışkanlık
+09.11.2025 14:07:09,18-24,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Evet,Alışkanlık
+09.11.2025 14:14:27,18-24,Kadın,Orta,0,Akşam,Az Rahatlamış Hissederim,Yüksek Stres,4-5,Enerjik,Emin değilim,Tadı vs.
+09.11.2025 14:14:37,25-34,Erkek,Yüksek,1-2,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Alışkanlık
+09.11.2025 14:15:04,35-44,Kadın,Düşük,1-2,Akşam,Hiç Rahatlamış Hissetmem,Çok Düşük Stres,4-5,Yorgun,Hayır,Sosyallik
+09.11.2025 14:15:22,25-34,Erkek,Yüksek,1-2,"Sabah, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Alışkanlık
+09.11.2025 14:16:29,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,10+,Sakin,Evet,Alışkanlık
+09.11.2025 14:21:20,18-24,Kadın,Orta,0,Öğle,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Tadı vs.
+09.11.2025 14:23:47,18-24,Kadın,Orta,0,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Sosyallik
+09.11.2025 14:27:35,18-24,Kadın,Yüksek,1-2,Akşam,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Evet,Stresle başa çıkma
+09.11.2025 14:32:36,18-24,Erkek,Çok Yüksek,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+09.11.2025 14:39:18,18-24,Kadın,Çok Yüksek,0,Sabah,Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Yorgun,Evet,Alışkanlık
+09.11.2025 14:46:20,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Uyanmak
+09.11.2025 14:46:38,18-24,Kadın,Orta,3-4,"Sabah, Öğle, Akşam",Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Evet,Alışkanlık
+09.11.2025 14:50:42,25-34,Erkek,Çok Yüksek,3-4,"Sabah, Öğle, Gün boyu",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Stresli,Hayır,Uyanmak
+09.11.2025 14:54:37,18-24,Kadın,Yüksek,1-2,Sabah,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Uyanmak
+09.11.2025 14:56:01,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Tadı vs.
+09.11.2025 14:57:52,25-34,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Uyanmak
+09.11.2025 15:01:17,18-24,Kadın,Düşük,1-2,"Sabah, Öğle",Çok Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Kararsız,Evet,Alışkanlık
+09.11.2025 15:04:22,18-24,Kadın,Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Hayır,Sosyallik
+09.11.2025 15:05:58,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Sosyallik
+09.11.2025 15:06:08,18-24,Kadın,Orta,3-4,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Stresli,Evet,Tadı vs.
+09.11.2025 15:08:08,18-24,Kadın,Düşük,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Alışkanlık
+09.11.2025 15:10:03,18-24,Kadın,Yüksek,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Uyanmak
+09.11.2025 15:13:29,18-24,Kadın,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,8-9,Stresli,Hayır,Alışkanlık
+09.11.2025 15:16:37,18-24,Kadın,Düşük,1-2,Öğle,Az Rahatlamış Hissederim,Çok Düşük Stres,8-9,Sakin,Evet,Tadı vs.
+09.11.2025 15:17:17,18-24,Kadın,Yüksek,0,"Sabah, Öğle, Akşam, Gün boyu",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Yorgun,Emin değilim,Sosyallik
+09.11.2025 15:19:26,18-24,Kadın,Orta,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+09.11.2025 15:19:40,18-24,Kadın,Orta,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Kararsız,Evet,Alışkanlık
+09.11.2025 15:20:23,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Emin değilim,Uyanmak
+09.11.2025 15:22:33,18-24,Kadın,Orta,1-2,Akşam,Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Evet,Stresle başa çıkma
+09.11.2025 15:22:43,18-24,Kadın,Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Sosyallik
+09.11.2025 15:25:29,18-24,Kadın,Yüksek,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Emin değilim,Alışkanlık
+09.11.2025 15:28:21,18-24,Kadın,Çok Yüksek,1-2,Akşam,Çok Rahatlamış Hissederim,Düşük/Orta Stres,"6-7, 8-9",Yorgun,Evet,Stresle başa çıkma
+09.11.2025 15:29:59,18-24,Kadın,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Stresli,Hayır,Sosyallik
+09.11.2025 15:30:13,18-24,Kadın,Düşük,1-2,Akşam,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Hayır,Tadı vs.
+09.11.2025 15:34:03,18-24,Kadın,Yüksek,1-2,Gün boyu,Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Emin değilim,Tadı vs.
+09.11.2025 15:34:43,25-34,Kadın,Yüksek,3-4,"Sabah, Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Evet,Uyanmak
+09.11.2025 15:35:09,18-24,Kadın,Düşük,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Kararsız,Hayır,Uyanmak
+09.11.2025 15:37:57,25-34,Erkek,Çok Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Uyanmak
+09.11.2025 15:38:12,18-24,Erkek,Orta,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Enerjik,Emin değilim,Alışkanlık
+09.11.2025 15:45:00,18-24,Kadın,Yüksek,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Uyanmak
+09.11.2025 15:49:30,18-24,Kadın,Yüksek,0,Sabah,Hiç Rahatlamış Hissetmem,Yüksek Stres,8-9,Yorgun,Hayır,Uyanmak
+09.11.2025 15:53:09,25-34,Erkek,Orta,0,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+09.11.2025 15:56:16,18-24,Kadın,Düşük,1-2,Öğle,Az Rahatlamış Hissederim,Çok Yüksek Stres,6-7,Stresli,Hayır,Tadı vs.
+09.11.2025 15:56:49,18-24,Kadın,Orta,1-2,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Kararsız,Hayır,Tadı vs.
+09.11.2025 16:07:47,18-24,Erkek,Orta,1-2,Sabah,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Sosyallik
+09.11.2025 16:08:27,18-24,Erkek,Yüksek,1-2,Akşam,"Hiç Rahatlamış Hissetmem, Az Rahatlamış Hissederim",Düşük/Orta Stres,8-9,Sakin,Hayır,Tadı vs.
+09.11.2025 16:17:01,18-24,Erkek,Orta,1-2,"Öğle, Akşam",Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Uyanmak
+09.11.2025 16:20:00,18-24,Kadın,Yüksek,0,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Kararsız,Hayır,Tadı vs.
+09.11.2025 16:25:56,35-44,Kadın,Yüksek,3-4,Gün boyu,Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Hayır,Alışkanlık
+09.11.2025 16:34:17,18-24,Erkek,Orta,0,Gün boyu,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
+09.11.2025 16:34:19,18-24,Kadın,Yüksek,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Uyanmak
+09.11.2025 16:40:14,18-24,Kadın,Orta,1-2,Akşam,Az Rahatlamış Hissederim,Yüksek Stres,"6-7, 10+",Stresli,Hayır,Tadı vs.
+09.11.2025 16:54:38,18-24,Kadın,Yüksek,1-2,"Sabah, Öğle",Çok Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Emin değilim,Alışkanlık
+09.11.2025 17:16:02,18-24,Erkek,Orta,1-2,Gün boyu,Çok Rahatlamış Hissederim,Çok Düşük Stres,"8-9, 10+",Sakin,Evet,Tadı vs.
+09.11.2025 17:31:21,18-24,Kadın,Orta,1-2,Öğle,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Stresli,Hayır,Sosyallik
+09.11.2025 17:39:41,18-24,Kadın,Çok Yüksek,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Hayır,Uyanmak
+09.11.2025 17:51:54,18-24,Erkek,Yüksek,1-2,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Kararsız,Emin değilim,Uyanmak
+09.11.2025 17:54:55,18-24,Erkek,Orta,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Emin değilim,Tadı vs.
+09.11.2025 17:55:57,18-24,Kadın,Yüksek,0,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Kararsız,Hayır,Tadı vs.
+09.11.2025 17:56:31,18-24,Kadın,Orta,1-2,Öğle,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Emin değilim,Tadı vs.
+09.11.2025 17:58:55,18-24,Kadın,Düşük,1-2,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Sakin,Hayır,Sosyallik
+09.11.2025 18:11:55,25-34,Kadın,Çok Yüksek,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Tadı vs.
+09.11.2025 18:12:19,18-24,Kadın,Çok Yüksek,0,Sabah,Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,8-9,Enerjik,Hayır,Uyanmak
+09.11.2025 18:19:17,18-24,Kadın,Düşük,1-2,"Öğle, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Yorgun,Hayır,Alışkanlık
+09.11.2025 18:26:05,18-24,Kadın,Orta,3-4,"Sabah, Öğle",Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Evet,Alışkanlık
+09.11.2025 18:39:57,18-24,Kadın,Orta,3-4,"Sabah, Akşam",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Hayır,Sosyallik
+09.11.2025 18:43:23,44+,Erkek,Yüksek,1-2,"Öğle, Akşam",Az Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Hayır,Uyanmak
+09.11.2025 18:44:02,35-44,Kadın,Orta,1-2,Sabah,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Sakin,Hayır,Alışkanlık
+09.11.2025 18:51:03,25-34,Kadın,Orta,1-2,"Sabah, Akşam",Az Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Stresli,Emin değilim,Alışkanlık
+09.11.2025 18:57:07,35-44,Erkek,Yüksek,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,6-7,Stresli,Evet,Alışkanlık
+09.11.2025 19:40:17,18-24,Erkek,Düşük,0,Gün boyu,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Sakin,Hayır,Sosyallik
+09.11.2025 19:42:47,18-24,Erkek,Orta,1-2,Öğle,Hiç Rahatlamış Hissetmem,Yüksek Stres,6-7,Yorgun,Hayır,Sosyallik
+09.11.2025 19:57:28,18-24,Erkek,Orta,1-2,Gün boyu,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Stresli,Hayır,Tadı vs.
+09.11.2025 20:35:23,18-24,Erkek,Çok Yüksek,0,Öğle,Orta Düzeyde Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Yorgun,Emin değilim,Alışkanlık
+09.11.2025 20:54:02,18-24,Kadın,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Yüksek Stres,8-9,Yorgun,Emin değilim,Sosyallik
+09.11.2025 21:17:03,35-44,Kadın,Orta,0,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Hayır,Sosyallik
+09.11.2025 21:35:47,18-24,Erkek,Orta,0,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,10+,Yorgun,Hayır,Sosyallik
+09.11.2025 22:29:27,18-24,Kadın,Orta,1-2,Öğle,Az Rahatlamış Hissederim,Düşük/Orta Stres,10+,Yorgun,Hayır,Sosyallik
+09.11.2025 22:44:17,18-24,Kadın,Orta,1-2,Akşam,Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Alışkanlık
+09.11.2025 22:57:10,18-24,Kadın,Çok Yüksek,5+,Gün boyu,"Orta Düzeyde Rahatlamış Hissederim, Çok Rahatlamış Hissederim",Yüksek Stres,8-9,Stresli,Evet,Alışkanlık
+09.11.2025 23:11:39,18-24,Kadın,Orta,3-4,"Akşam, Gün boyu",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Kararsız,Evet,Stresle başa çıkma
+09.11.2025 23:17:40,44+,Kadın,Yüksek,3-4,Gün boyu,Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Yorgun,Hayır,Alışkanlık
+09.11.2025 23:17:47,18-24,Kadın,Yüksek,1-2,Öğle,Çok Rahatlamış Hissederim,Çok Düşük Stres,6-7,Sakin,Hayır,Alışkanlık
+09.11.2025 23:19:58,44+,Kadın,Orta,1-2,"Sabah, Akşam",Çok Rahatlamış Hissederim,Yüksek Stres,6-7,Sakin,Hayır,Alışkanlık
+09.11.2025 23:22:25,35-44,Erkek,Yüksek,1-2,Öğle,Az Rahatlamış Hissederim,Yüksek Stres,4-5,Enerjik,Hayır,Alışkanlık
+10.11.2025 07:22:01,18-24,Kadın,Orta,0,Akşam,Az Rahatlamış Hissederim,Çok Düşük Stres,6-7,Yorgun,Hayır,Tadı vs.
+10.11.2025 12:17:43,18-24,Kadın,Çok Yüksek,3-4,Gün boyu,Çok Rahatlamış Hissederim,Çok Yüksek Stres,4-5,Yorgun,Evet,Stresle başa çıkma
+10.11.2025 20:05:26,44+,Kadın,Çok Yüksek,5+,Gün boyu,Çok Rahatlamış Hissederim,Çok Yüksek Stres,"4-5, 6-7, 10+",Stresli,Evet,Stresle başa çıkma
+10.11.2025 21:41:38,18-24,Kadın,Yüksek,0,Öğle,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Tadı vs.
+11.11.2025 01:43:21,44+,Kadın,Çok Yüksek,5+,Akşam,Çok Rahatlamış Hissederim,Çok Yüksek Stres,10+,Stresli,Evet,Stresle başa çıkma
+12.11.2025 10:34:17,18-24,Erkek,Orta,1-2,Akşam,Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,8-9,Enerjik,Hayır,Tadı vs.
+12.11.2025 21:01:23,18-24,Kadın,Orta,1-2,"Sabah, Öğle",Orta Düzeyde Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Yorgun,Hayır,Alışkanlık
+12.11.2025 23:12:23,18-24,Erkek,Orta,1-2,Akşam,Hiç Rahatlamış Hissetmem,Düşük/Orta Stres,6-7,Yorgun,Hayır,Uyanmak
+16.11.2025 17:40:48,25-34,Erkek,Orta,1-2,"Sabah, Öğle",Az Rahatlamış Hissederim,Düşük/Orta Stres,6-7,Sakin,Hayır,Tadı vs.
