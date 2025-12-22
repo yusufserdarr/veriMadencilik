@@ -7,7 +7,9 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.metrics import accuracy_score, classification_report, precision_score, recall_score, f1_score
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -24,6 +26,11 @@ df_clean = df.drop('Zaman damgası', axis=1)
 df_clean.columns = ['Yas', 'Cinsiyet', 'Is_Yogunlugu', 'Kahve_Miktar', 
                      'Kahve_Zamani', 'Kahve_Hissi', 'Stres_Duzeyi', 
                      'Uyku_Suresi', 'Ruh_Hali', 'Stresli_Kahve', 'Kahve_Nedeni']
+
+# Kahve_Nedeni sütununu (Stresle başa çıkma vb. içerdiği için bias yaratıyor) çıkarıyoruz
+if 'Kahve_Nedeni' in df_clean.columns:
+    df_clean = df_clean.drop('Kahve_Nedeni', axis=1)
+    print("⚠️ 'Kahve_Nedeni' sütunu bias önleme amacıyla çıkarıldı.")
 
 def simplify(value):
     if pd.isna(value):
@@ -158,7 +165,7 @@ print(f"   Doğruluk: %{knn_acc*100:.2f}")
 # Model 2: Decision Tree
 print("\n2. DECISION TREE")
 print("-"*40)
-dt = DecisionTreeClassifier(max_depth=6, random_state=42)
+dt = DecisionTreeClassifier(max_depth=8, random_state=42)
 dt.fit(X_train_sel, y_train_sel)
 dt_acc = accuracy_score(y_test_sel, dt.predict(X_test_sel))
 print(f"   Doğruluk: %{dt_acc*100:.2f}")
@@ -171,33 +178,51 @@ rf.fit(X_train_sel, y_train_sel)
 rf_acc = accuracy_score(y_test_sel, rf.predict(X_test_sel))
 print(f"   Doğruluk: %{rf_acc*100:.2f}")
 
+# Model 4: Naive Bayes
+print("\n4. NAIVE BAYES (GaussianNB)")
+print("-"*40)
+nb_model = GaussianNB()
+nb_model.fit(X_train_sel, y_train_sel)
+nb_acc = accuracy_score(y_test_sel, nb_model.predict(X_test_sel))
+print(f"   Doğruluk: %{nb_acc*100:.2f}")
+
 # En iyi model
-models = [('KNN', knn_acc), ('Decision Tree', dt_acc), ('Random Forest', rf_acc)]
-best_model = max(models, key=lambda x: x[1])
+models = [('KNN', knn, knn_acc), ('Decision Tree', dt, dt_acc), ('Random Forest', rf, rf_acc), ('Naive Bayes', nb_model, nb_acc)]
+best_model = max(models, key=lambda x: x[2])
 
 print("\n" + "="*80)
 print("SONUÇLAR")
 print("="*80)
 
-print("\n📊 MODEL PERFORMANSLARI:")
-for model_name, acc in sorted(models, key=lambda x: x[1], reverse=True):
-    star = "🏆 " if model_name == best_model[0] else "   "
-    print(f"{star}{model_name:20s}: %{acc*100:.2f}")
+print("\n📊 MODEL PERFORMANSLARI (Detaylı):")
+print(f"{'Model':<20} {'Accuracy':<10} {'Precision':<10} {'Recall':<10} {'F1-Score':<10}")
+print("-" * 65)
 
-print(f"\n🏆 EN İYİ MODEL: {best_model[0]} (%{best_model[1]*100:.2f})")
+for model_name, model, acc in sorted(models, key=lambda x: x[2], reverse=True):
+    y_pred = model.predict(X_test_sel)
+    # Zero division handling for safety
+    prec = precision_score(y_test_sel, y_pred, average='weighted', zero_division=0)
+    rec = recall_score(y_test_sel, y_pred, average='weighted', zero_division=0)
+    f1 = f1_score(y_test_sel, y_pred, average='weighted', zero_division=0)
+    
+    star = "🏆 " if model_name == best_model[0] else "   "
+    print(f"{star}{model_name:20s}: %{acc*100:.2f}      {prec:.4f}     {rec:.4f}     {f1:.4f}")
+
+print(f"\n🏆 EN İYİ MODEL: {best_model[0]} (%{best_model[2]*100:.2f})")
 
 print("\n💡 ÖNEMLI BULGULAR:")
 print(f"  1. En önemli özellikler: {', '.join(onemli_ozellikler[:3])}")
 if len(onemsiz_ozellikler) > 0:
     print(f"  2. Çıkarılan özellikler: {', '.join(onemsiz_ozellikler)}")
 print(f"  3. Veri boyutu optimizasyonu: %{(1 - len(onemli_ozellikler)/X.shape[1])*100:.1f} azaltma")
-print(f"  4. Model başarısı: Üç yöntem de %{min([m[1] for m in models])*100:.1f} - %{max([m[1] for m in models])*100:.1f} doğruluk aralığında")
+print(f"  4. Model başarısı: Üç yöntem de %{min([m[2] for m in models])*100:.1f} - %{max([m[2] for m in models])*100:.1f} doğruluk aralığında")
 
 print("\n✅ HOCANIN İSTEDİĞİ ANALİZLER TAMAMLANDI:")
 print("  ✓ Korelasyon Analizi")
 print("  ✓ Feature Importance Analizi")
 print("  ✓ Anlamsız özelliklerin tespiti ve çıkarılması")
-print("  ✓ Üç farklı makine öğrenmesi modeli")
+print("  ✓ Üç farklı makine öğrenmesi modeli (KNN, DT, RF, NB)")
 print("  ✓ Model performans karşılaştırması")
 
 print("\n" + "="*80)
+
